@@ -1,0 +1,31 @@
+{
+  "name": "ReactWidget",
+  "version": "1.0.6",
+  "description": "base component for react",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src --out-dir lib --copy-files"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wayaha?tab=repositories"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "base"
+  ],
+  "author": "Picker",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-plugin-istanbul": "^4.1.6",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  }
+}
