@@ -1,5 +1,5 @@
 {
-  "name": "ReactWidget",
+  "name": "picker_react_widget",
   "version": "1.0.6",
   "description": "base component for react",
   "main": "lib/index.js",
