@@ -1,6 +1,6 @@
 {
   "name": "picker_react_widget",
-  "version": "1.0.7",
+  "version": "1.2.1",
   "description": "base component for react",
   "main": "lib/index.js",
   "scripts": {
